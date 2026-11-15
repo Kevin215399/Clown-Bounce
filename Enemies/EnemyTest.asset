@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fddd646965212f4baf2f4c836335a52, type: 3}
+  m_Name: EnemyTest
+  m_EditorClassIdentifier: 
+  health: 15
+  spawnTimer: 3
+  objectID: 0
+  prefab: {fileID: 3008763886926624840, guid: d937a7fd2e8313749b84345b59a0cd5f, type: 3}
+  defaultCap: 20
+  maxCap: 100

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fddd646965212f4baf2f4c836335a52, type: 3}
+  m_Name: Clown
+  m_EditorClassIdentifier: 
+  health: 20
+  spawnTimer: 1
+  objectID: 1
+  damage: 5
+  prefab: {fileID: 2358145677675483125, guid: 280bb7fc1995e5e4283cb44bafe1131f, type: 3}
+  defaultCap: 10
+  maxCap: 50
